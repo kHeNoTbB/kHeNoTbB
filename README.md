@@ -9,6 +9,7 @@
  ![contributor](https://img.shields.io/github/contributors/kHeNoTbB/RESUME.svg)
  ![GitHub last commit](https://img.shields.io/github/last-commit/kHeNoTbB/RESUME.svg)
  ![status](https://img.shields.io/badge/working-brightgreen.svg)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileys3/)](https://www.linkedin.com/in/haileys3/) 
  
  </div>
 
@@ -39,12 +40,6 @@
 
 🌱 𝘏𝘺𝘶𝘯𝘥𝘢𝘪 𝘐𝘛&𝘌 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 (2020.06 ~) `EJB` `Spring` `Oracle` `JS`
 
-
-<div align=center>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileys3/)](https://www.linkedin.com/in/haileys3/) 
-
-</div>
 
 
 
