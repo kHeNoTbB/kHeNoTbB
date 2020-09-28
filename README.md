@@ -26,22 +26,10 @@
 
 🌱 Hyundai IT&E Full Stack Developer (2020.06 ~) `EJB` `Spring` `Oracle` `JS`
 
-<div>
-<P>
 
 
-
-
-</P>
-</div>
-<P>
-
-</P>
 <div align=center>
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileys3/)](https://www.linkedin.com/in/haileys3/) 
-
 </div>
 
 
