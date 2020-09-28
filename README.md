@@ -24,7 +24,7 @@
 
 **History:**
 
-🌱 Hyundai IT&E Full Stack Developer (2020.06 ~) `EJB` `Spring` `Oracle` `JS`
+🌱 𝘏𝘺𝘶𝘯𝘥𝘢𝘪 𝘐𝘛&𝘌 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 (2020.06 ~) `EJB` `Spring` `Oracle` `JS`
 
 
 <div align=center>
