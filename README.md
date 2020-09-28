@@ -1,16 +1,16 @@
 <p align="center">
  <h1 align="center">𝗠𝗬 𝗣𝗥𝟬𝗙𝟭𝗟𝟯</h2>
  <p align="center">𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙃𝙖𝙞𝙡𝙚𝙮 👋</p>
+</p>
+
+<div align="center">
  
- <p align="center">
  [![HitCount](http://hits.dwyl.io/kHeNoTbB/RESUME.svg)](http://hits.dwyl.io/kHeNoTbB/RESUME)
  ![contributor](https://img.shields.io/github/contributors/kHeNoTbB/RESUME.svg)
  ![GitHub last commit](https://img.shields.io/github/last-commit/kHeNoTbB/RESUME.svg)
  ![status](https://img.shields.io/badge/working-brightgreen.svg)
  
- </p>
- 
-</p>
+ </div>
 
 
 
