@@ -23,7 +23,8 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=publu05)](https://solved.ac/publu05)
 
 **History:**
-* Hyundai IT&E Full Stack Developer (2020.06 ~) `EJB` `Spring` `Oracle` `JS`
+
+🌱 Hyundai IT&E Full Stack Developer (2020.06 ~) `EJB` `Spring` `Oracle` `JS`
 
 <div align=center>
 
