@@ -14,12 +14,8 @@
  </div>
 
 <!--  정보
-
 https://kinetic.codes/2020/07/14/git-profile/
-https://nitratine.net/blog/post/github-badges/   -
-
-->
-
+https://nitratine.net/blog/post/github-badges/ -->
 
 
 **Languages and Tools:**
