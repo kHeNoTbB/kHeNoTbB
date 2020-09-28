@@ -5,7 +5,7 @@
 
 <div align="center">
  
- [![HitCount](http://hits.dwyl.io/kHeNoTbB](http://hits.dwyl.io/kHeNoTbB)
+ [![HitCount](http://hits.dwyl.io/kHeNoTbB/RESUME.svg)](http://hits.dwyl.io/kHeNoTbB)
  ![contributor](https://img.shields.io/github/contributors/kHeNoTbB/RESUME.svg)
  ![GitHub last commit](https://img.shields.io/github/last-commit/kHeNoTbB/RESUME.svg)
  ![status](https://img.shields.io/badge/working-brightgreen.svg)
