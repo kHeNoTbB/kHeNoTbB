@@ -5,7 +5,7 @@
 
 <div align="center">
  
- [![HitCount](http://hits.dwyl.com/kHeNoTbB/kHeNoTbB.svg)](http://hits.dwyl.com/kHeNoTbB/kHeNoTbB)
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kHeNoTbB)](https://hits.seeyoufarm.com)  
  ![contributor](https://img.shields.io/github/contributors/kHeNoTbB/RESUME.svg)
  ![GitHub last commit](https://img.shields.io/github/last-commit/kHeNoTbB/RESUME.svg)
  ![status](https://img.shields.io/badge/working-brightgreen.svg)
