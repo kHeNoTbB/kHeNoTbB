@@ -1,6 +1,6 @@
 <p align="center">
- <h1 align="center">MY PR0F1L3</h2>
- <p align="center">Hi there, I'm Hailey 👋</p>
+ <h1 align="center">𝗠𝗬 𝗣𝗥𝟬𝗙𝟭𝗟𝟯</h2>
+ <p align="center">𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓗𝓪𝓲𝓵𝓮𝔂 👋</p>
 </p>
 
 **Languages and Tools:**
