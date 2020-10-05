@@ -1,6 +1,6 @@
 <p align="center">
- <h1 align="center">𝗠𝗬 𝗣𝗥𝟬𝗙𝟭𝗟𝟯</h2>
- <p align="center">𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙃𝙖𝙞𝙡𝙚𝙮 👋</p>
+ <h1 align="center">𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙃𝙖𝙞𝙡𝙚𝙮 👋 </h2>
+ <!--<p align="center">𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙃𝙖𝙞𝙡𝙚𝙮 👋</p>-->
 </p>
 
 <div align="center">
@@ -53,7 +53,11 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 **History:**
 
-🌱 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘚𝘵𝘳𝘢𝘵𝘦𝘨𝘺 𝘛𝘦𝘢𝘮 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 (2020.06 ~) `EJB` `Spring` `Oracle` `JS` `GAUCE`
+:computer: 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘚𝘵𝘳𝘢𝘵𝘦𝘨𝘺 𝘛𝘦𝘢𝘮 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 (2020.06 ~) `EJB` `Spring` `Oracle` `JS` `GAUCE`
+
+🌱 Teaching `Software Adviser` `Teaching volunteer(3 years)` `Many club activities`
+
+📝 Reporter `SDS` `AhnLab` `Blog`
 
 
 
