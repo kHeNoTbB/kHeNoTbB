@@ -53,7 +53,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 **History:**
 
-🌱 𝘏𝘺𝘶𝘯𝘥𝘢𝘪 𝘐𝘛&𝘌 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘚𝘵𝘳𝘢𝘵𝘦𝘨𝘺 𝘛𝘦𝘢𝘮 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 (2020.06 ~) `EJB` `Spring` `Oracle` `JS` `GAUCE`
+🌱 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘚𝘵𝘳𝘢𝘵𝘦𝘨𝘺 𝘛𝘦𝘢𝘮 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 (2020.06 ~) `EJB` `Spring` `Oracle` `JS` `GAUCE`
 
 
 
