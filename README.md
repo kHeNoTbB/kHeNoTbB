@@ -6,7 +6,6 @@
 <div align="center">
  
  [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=publu05)](https://solved.ac/publu05)
- ![GitHub last commit](https://img.shields.io/github/last-commit/kHeNoTbB/RESUME.svg)
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kHeNoTbB)](https://hits.seeyoufarm.com)
  ![status](https://img.shields.io/badge/working-red.svg)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileys3/)](https://www.linkedin.com/in/haileys3/)
