@@ -6,9 +6,9 @@
 <div align="center">
  
  [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=publu05)](https://solved.ac/publu05)
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kHeNoTbB)](https://hits.seeyoufarm.com)
+ <img src="https://komarev.com/ghpvc/?username=kHeNoTbB&color=green" />
  ![status](https://img.shields.io/badge/working-red.svg)
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileys3/)](https://www.linkedin.com/in/haileys3/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileys3/)](https://www.linkedin.com/in/haileys3/)
  
  
  </div>
@@ -63,13 +63,13 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 **History:**
 
 :computer: 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘚𝘵𝘳𝘢𝘵𝘦𝘨𝘺 𝘛𝘦𝘢𝘮 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 (2020.06 ~)
-<img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" />
-<img alt="JS" src="https://img.shields.io/badge/-JS-F9A03C?style=flat-square&logo=JS&logoColor=white" />
-<img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=Spring&logoColor=white" />
-<img alt="EJB" src="https://img.shields.io/badge/-EJB-43853d?style=flat-square&logo=EJB&logoColor=white" />
-<img alt="ORACLE" src="https://img.shields.io/badge/-Oracle-430098?style=flat-square&logo=Oracle&logoColor=white" />
-<img alt="SQL" src="https://img.shields.io/badge/-SQL-430098?style=flat-square&logo=SQL&logoColor=white" />
-<img alt="GAUCE" src="https://img.shields.io/badge/-GAUCE-050505?style=flat-square&logo=GAUCE&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" align="center"/>
+<img alt="JS" src="https://img.shields.io/badge/-JS-F9A03C?style=flat-square&logo=JS&logoColor=white" align="center"/>
+<img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=Spring&logoColor=white" align="center"/>
+<img alt="EJB" src="https://img.shields.io/badge/-EJB-43853d?style=flat-square&logo=EJB&logoColor=white" align="center"/>
+<img alt="ORACLE" src="https://img.shields.io/badge/-Oracle-430098?style=flat-square&logo=Oracle&logoColor=white" align="center"/>
+<img alt="SQL" src="https://img.shields.io/badge/-SQL-430098?style=flat-square&logo=SQL&logoColor=white" align="center"/>
+<img alt="GAUCE" src="https://img.shields.io/badge/-GAUCE-050505?style=flat-square&logo=GAUCE&logoColor=white" align="center"/>
 
 🌱 Teaching `Software Adviser` `Teaching volunteer(3 years)` `Many club activities`
 
