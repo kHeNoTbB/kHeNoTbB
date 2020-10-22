@@ -68,7 +68,6 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=Spring&logoColor=white" align="center"/>
 <img alt="EJB" src="https://img.shields.io/badge/-EJB-43853d?style=flat-square&logo=EJB&logoColor=white" align="center"/>
 <img alt="ORACLE" src="https://img.shields.io/badge/-Oracle-430098?style=flat-square&logo=Oracle&logoColor=white" align="center"/>
-<img alt="SQL" src="https://img.shields.io/badge/-SQL-430098?style=flat-square&logo=SQL&logoColor=white" align="center"/>
 <img alt="GAUCE" src="https://img.shields.io/badge/-GAUCE-050505?style=flat-square&logo=GAUCE&logoColor=white" align="center"/>
 
 🌱 Teaching `Software Adviser` `Teaching volunteer(3 years)` `Many club activities`
