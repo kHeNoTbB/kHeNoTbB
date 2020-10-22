@@ -62,11 +62,14 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 **History:**
 
-:computer: 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘚𝘵𝘳𝘢𝘵𝘦𝘨𝘺 𝘛𝘦𝘢𝘮 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 (2020.06 ~) `EJB` `Oracle` `GAUCE` 
+:computer: 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘚𝘵𝘳𝘢𝘵𝘦𝘨𝘺 𝘛𝘦𝘢𝘮 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 (2020.06 ~)
 <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" />
 <img alt="JS" src="https://img.shields.io/badge/-JS-F9A03C?style=flat-square&logo=JS&logoColor=white" />
 <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=Spring&logoColor=white" />
+<img alt="EJB" src="https://img.shields.io/badge/-EJB-050505?style=flat-square&logo=EJB&logoColor=white" />
+<img alt="ORACLE" src="https://img.shields.io/badge/-Oracle-430098?style=flat-square&logo=Oracle&logoColor=white" />
 <img alt="SQL" src="https://img.shields.io/badge/-SQL-430098?style=flat-square&logo=SQL&logoColor=white" />
+<img alt="GAUCE" src="https://img.shields.io/badge/-GAUCE-050505?style=flat-square&logo=GAUCE&logoColor=white" />
 
 🌱 Teaching `Software Adviser` `Teaching volunteer(3 years)` `Many club activities`
 
