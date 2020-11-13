@@ -18,7 +18,7 @@ https://kinetic.codes/2020/07/14/git-profile/
 https://nitratine.net/blog/post/github-badges/ -->
 
 
-**Languages and Tools:**
+**Languages and solved:**
 
 <!--
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -29,7 +29,9 @@ https://nitratine.net/blog/post/github-badges/ -->
 <img alt="Python" src="https://img.shields.io/badge/-Python-f8c256?style=flat-square&logo=Python&logoColor=white" />
 -->
 
+
 <!--java javascript css&html5 python spring vue django sql mysql oracle git aws terminal ubuntu linux (jira, svn)-->
+<!--REAL CODE START
 <code><a href="https://www.java.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/></a></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
@@ -46,7 +48,7 @@ https://nitratine.net/blog/post/github-badges/ -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><a href="https://www.linux.org/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></a></code>
-
+REAL CODE END-->
 <!--
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 <code><a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a></code>
