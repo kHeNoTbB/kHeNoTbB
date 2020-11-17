@@ -72,10 +72,10 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <img alt="ORACLE" src="https://img.shields.io/badge/-Oracle-430098?style=flat-square&logo=Oracle&logoColor=white" align="center"/>
 <img alt="GAUCE" src="https://img.shields.io/badge/-GAUCE-050505?style=flat-square&logo=GAUCE&logoColor=white" align="center"/>
 
+<!--
 🌱 Teaching `Software Adviser` `Teaching volunteer(3 years)` `Many club activities`
-
 📝 Reporter `SDS` `AhnLab` `Blog`
-
+-->
 
 
 
