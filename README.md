@@ -62,7 +62,6 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kHeNoTbB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 **History:**
 
 :computer: 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘚𝘵𝘳𝘢𝘵𝘦𝘨𝘺 𝘛𝘦𝘢𝘮 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 (2020.06 ~)
