@@ -10,6 +10,8 @@
  ![status](https://img.shields.io/badge/working-red.svg)
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileys3/)](https://www.linkedin.com/in/haileys3/)
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kHeNoTbB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
  
  </div>
 
@@ -17,9 +19,9 @@
 https://kinetic.codes/2020/07/14/git-profile/
 https://nitratine.net/blog/post/github-badges/ -->
 
-
+<!--
 **Languages and solved:**
-
+-->
 <!--
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring_Boot-43853d?style=flat-square&logo=Spring&logoColor=white" />
@@ -59,11 +61,9 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <!--[![Hailey's github stats](https://github-readme-stats.vercel.app/api?username=kHeNoTbB)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kHeNoTbB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 **History:**
-
 :computer: 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘚𝘵𝘳𝘢𝘵𝘦𝘨𝘺 𝘛𝘦𝘢𝘮 𝘍𝘶𝘭𝘭 𝘚𝘵𝘢𝘤𝘬 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 (2020.06 ~)
 <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" align="center"/>
 <img alt="JS" src="https://img.shields.io/badge/-JS-F9A03C?style=flat-square&logo=JS&logoColor=white" align="center"/>
@@ -71,7 +71,7 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 <img alt="EJB" src="https://img.shields.io/badge/-EJB-43853d?style=flat-square&logo=EJB&logoColor=white" align="center"/>
 <img alt="ORACLE" src="https://img.shields.io/badge/-Oracle-430098?style=flat-square&logo=Oracle&logoColor=white" align="center"/>
 <img alt="GAUCE" src="https://img.shields.io/badge/-GAUCE-050505?style=flat-square&logo=GAUCE&logoColor=white" align="center"/>
-
+-->
 <!--
 🌱 Teaching `Software Adviser` `Teaching volunteer(3 years)` `Many club activities`
 📝 Reporter `SDS` `AhnLab` `Blog`
