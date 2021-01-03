@@ -5,9 +5,8 @@
 
 <div align="center">
  
- [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=publu05)](https://solved.ac/publu05)
- <img src="https://komarev.com/ghpvc/?username=kHeNoTbB&color=green" />
  ![status](https://img.shields.io/badge/working-red.svg)
+ <img src="https://komarev.com/ghpvc/?username=kHeNoTbB&color=green" />
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haileys3/)](https://www.linkedin.com/in/haileys3/)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kHeNoTbB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
